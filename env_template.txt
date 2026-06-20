@@ -1,1 +1,1 @@
-GROQ_API_KEY=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
+GROQ_API_KEY=your_groq_api_key
