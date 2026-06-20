@@ -9,7 +9,7 @@ load_dotenv()
 # streamlit page setup
 st.set_page_config(
     page_title="Chatbot",
-    page_icon="⚡︎ ⋆.˚ 🤖ིྀ˚.⋆ ⚡︎",
+    page_icon="👾",
     layout="centered",
 )
 st.title("💬 Generative AI Chatbot")
